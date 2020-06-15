@@ -8,8 +8,3 @@ In order to get a VSCode Jupyter virtual environment up and running, so as to ha
 - Now, from inside the environment install jupyter using pip: ```pip install jupyter```
 - And now install a new kernel: ```ipython kernel install --user --name=projectname```
 - Then, change your python interpreter in VSCode to the new one you just made
-
-
-
-
-
